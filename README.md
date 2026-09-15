@@ -1,8 +1,6 @@
 # projeto-fortnite
 Projeto á pedido do professor Israel.
 
-# Projeto Fortnite
-
 Este projeto é um site sobre o Fortnite, desenvolvido como atividade acadêmica.
 
 O site apresenta informações sobre a história do jogo, temporadas, modos de jogo, mapa, personagens, armas, itens, skins, eventos, construções e curiosidades.
